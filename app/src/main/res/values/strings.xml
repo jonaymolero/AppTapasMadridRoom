@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TapasRoom</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_tapa">DetailTapaActivity</string>
+    <string name="sobreTapa">Sobre la tapa:</string>
+    <string name="sobreEstablecimiento">Sobre el establecimiento:</string>
+    <string name="title_activity_establecimiento_detail">EstablecimientoDetailActivity</string>
+    <string name="todastapas">Tapas del establecimiento</string>
+</resources>
