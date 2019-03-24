@@ -9,9 +9,6 @@ import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.rowtapas.view.*
 import net.azarquiel.tapasroom.model.TapaView
 
-/**
- * Created by pacopulido on 9/10/18.
- */
 class CustomAdapter(val context: Context,
                     val layout: Int
                     ) : RecyclerView.Adapter<CustomAdapter.ViewHolder>() {

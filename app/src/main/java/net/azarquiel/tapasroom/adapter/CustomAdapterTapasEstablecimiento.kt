@@ -8,9 +8,6 @@ import android.view.ViewGroup
 import kotlinx.android.synthetic.main.rowtapaestablecimiento.view.*
 import net.azarquiel.tapasroom.model.Tapa
 
-/**
- * Created by pacopulido on 9/10/18.
- */
 class CustomAdapterTapasEstablecimiento(val context: Context,
                     val layout: Int
                     ) : RecyclerView.Adapter<CustomAdapterTapasEstablecimiento.ViewHolder>() {
